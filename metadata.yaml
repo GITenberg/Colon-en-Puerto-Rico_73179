@@ -1,0 +1,37 @@
+_repo: Colon-en-Puerto-Rico_73179
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Coll y Toste, Cayetano
+    alias: Toste, Cayetano Coll y
+    birthdate: 1850
+    deathdate: 1930
+    gutenberg_agent_id: '56940'
+    url: http://www.gutenberg.org/2009/agents/56940
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Cayetano_Coll_y_Toste
+    - https://es.wikipedia.org/wiki/Cayetano_Coll_y_Toste
+description: ''
+gutenberg_issued: '2024-03-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73179'
+language: es
+pgterms:marc904: https://archive.org/details/colonenpuertoric00coll
+pgterms:marc905: 20220404192236collytoste
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aPuerto-Rico :$bTip. al vapor de la Correspondencia, $c1893,
+  copyright 1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Columbus, Christopher, 1451-1506'
+- !lcsh 'Puerto Rico -- History -- To 1898'
+- !lcc 'E011'
+- GITenberg
+title: Colon en Puerto-Rico
+url: http://www.gutenberg.org/ebooks/73179
