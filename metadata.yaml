@@ -1,5 +1,8 @@
 _repo: Colon-en-Puerto-Rico_73179
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73179-h/images/cover.jpg
 creator:
   author:
     agent_name: Coll y Toste, Cayetano
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Cayetano_Coll_y_Toste
     - https://es.wikipedia.org/wiki/Cayetano_Coll_y_Toste
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73179#Colon-en-Puerto-Rico
 gutenberg_issued: '2024-03-16'
 gutenberg_type: Text
 identifiers:
